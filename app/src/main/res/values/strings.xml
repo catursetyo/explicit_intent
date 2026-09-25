@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="title_form">Form Data Mahasiswa</string>
+    <string name="subtitle_form">Lengkapi seluruh data di bawah ini dengan benar</string>
+
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="hint_nama">Masukkan nama lengkap</string>
+
+    <string name="label_nrp">NRP (12 Digit)</string>
+    <string name="hint_nrp">Masukkan 12 digit angka</string>
+    <string name="helper_nrp">Tepat 12 digit angka</string>
+
+    <string name="label_nik">NIK (16 Digit)</string>
+    <string name="hint_nik">Masukkan 16 digit angka</string>
+    <string name="helper_nik">Tepat 16 digit angka</string>
+
+    <string name="label_alamat">Alamat</string>
+    <string name="hint_alamat">Masukkan alamat domisili</string>
+
+    <string name="label_tgl_lahir">Tanggal Lahir</string>
+    <string name="hint_tgl_lahir">Pilih tanggal lahir</string>
+
+    <string name="btn_pindah">Kirim &amp; Pindah Halaman</string>
+    <string name="btn_kembali">Kembali ke Form</string>
+
+    <string name="title_detail">Data Diterima</string>
+    <string name="subtitle_detail">Data berhasil dikirim melalui Intent antar Activity</string>
+</resources>
